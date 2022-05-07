@@ -9,10 +9,9 @@
     <!-- The above 4 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
     <!-- Title -->
-    <title>Colorlib App - App Landing Page</title>
+    <title>XPERTPHARM</title>
 
     <!-- Favicon -->
-    <link rel="icon" href="img/core-img/favicon.ico">
 
     <!-- Core Stylesheet -->
     <link href="style.css" rel="stylesheet">
@@ -159,12 +158,12 @@
                 <div class="row">
                     <div class="col-lg-6">
                         <div class="special_description_img">
-                            <img src="img/bg-img/special.png" alt="">
+                            <img src="img/bg-img/pack.png" alt="">
                         </div>
                     </div>
                     <div class="col-lg-6 col-xl-5 ml-xl-auto">
                         <div class="special_description_content">
-                            <h2>Our Best Propositions for You!</h2>
+                            <h2>Nos Solutions</h2>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
                             <div class="app-download-area">
                                 <div class="app-download-btn wow fadeInUp" data-wow-delay="0.2s">
@@ -190,14 +189,14 @@
     </section>
     <!-- ***** Special Area End ***** -->
 
-    <!-- ***** Awesome Features Start ***** -->
+    <!-- *** Awesome Features Start *** -->
     <section class="awesome-feature-area bg-white section_padding_0_50 clearfix" id="features">
         <div class="container">
             <div class="row">
                 <div class="col-12">
                     <!-- Heading Text -->
                     <div class="section-heading text-center">
-                        <h2>Awesome Features</h2>
+                        <h2>Dernières Actualités</h2>
                         <div class="line-shape"></div>
                     </div>
                 </div>
@@ -206,57 +205,59 @@
             <div class="row">
                 <!-- Single Feature Start -->
                 <div class="col-12 col-sm-6 col-lg-4">
-                    <div class="single-feature">
-                        <i class="ti-user" aria-hidden="true"></i>
-                        <h5>Awesome Experience</h5>
+                    <div class="single-feature  single-price-plan">
+                        <i class="ti-agenda" aria-hidden="true"></i>
+                        <h5>XPERTPHARM 5</h5>
+                        <div class="client-name d-flex mt-3">
+                            <i class="ti-calendar mr-2 text-center" aria-hidden="true"></i>
+                            <p>30 Mai 2019</p>
+                        </div>
                         <p>Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                        <div class="sing-up-button">
+                            <a href="#" class="text-dark">Lire La Suite</a>
+                        </div>
                     </div>
                 </div>
                 <!-- Single Feature Start -->
                 <div class="col-12 col-sm-6 col-lg-4">
-                    <div class="single-feature">
-                        <i class="ti-pulse" aria-hidden="true"></i>
-                        <h5>Fast and Simple</h5>
+                    <div class="single-feature single-price-plan">
+                        <i class="ti-agenda" aria-hidden="true"></i>
+                        <h5>SIPHAL</h5>
+                        <div class="client-name d-flex mt-3">
+                            <i class="ti-calendar mr-2 text-center" aria-hidden="true"></i>
+                            <p>30 Juin 2019</p>
+                        </div>
                         <p>Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                        <div class="sing-up-button">
+                            <a href="#" class="text-dark">Lire La Suite</a>
+                        </div>
                     </div>
                 </div>
                 <!-- Single Feature Start -->
                 <div class="col-12 col-sm-6 col-lg-4">
-                    <div class="single-feature">
-                        <i class="ti-dashboard" aria-hidden="true"></i>
-                        <h5>Clean Code</h5>
+                    <div class="single-feature single-price-plan">
+                        <i class="ti-agenda" aria-hidden="true"></i>
+                        <h5>Saidaliya</h5>
+                        <div class="client-name d-flex mt-3">
+                            <i class="ti-calendar mr-2 text-center" aria-hidden="true"></i>
+                            <p>30 Decembre 2019</p>
+                        </div>
                         <p>Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                        <div class="sing-up-button">
+                            <a href="#" class="text-dark">Lire La Suite</a>
+                        </div>
                     </div>
                 </div>
                 <!-- Single Feature Start -->
-                <div class="col-12 col-sm-6 col-lg-4">
-                    <div class="single-feature">
-                        <i class="ti-palette" aria-hidden="true"></i>
-                        <h5>Perfect Design</h5>
-                        <p>Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                    </div>
-                </div>
+
                 <!-- Single Feature Start -->
-                <div class="col-12 col-sm-6 col-lg-4">
-                    <div class="single-feature">
-                        <i class="ti-crown" aria-hidden="true"></i>
-                        <h5>Best Industry Leader</h5>
-                        <p>Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                    </div>
-                </div>
+
                 <!-- Single Feature Start -->
-                <div class="col-12 col-sm-6 col-lg-4">
-                    <div class="single-feature">
-                        <i class="ti-headphone" aria-hidden="true"></i>
-                        <h5>24/7 Online Support</h5>
-                        <p>Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                    </div>
-                </div>
             </div>
 
         </div>
     </section>
-    <!-- ***** Awesome Features End ***** -->
+    <!-- *** Awesome Features End *** -->
 
     <!-- ***** Video Area Start ***** -->
     <div class="video-section">
@@ -340,22 +341,22 @@
                     <!-- App Screenshots Slides  -->
                     <div class="app_screenshots_slides owl-carousel">
                         <div class="single-shot">
-                            <img src="img/scr-img/app-1.jpg" alt="">
+                            <img src="img/scr-img/xpert1.png" alt="">
                         </div>
                         <div class="single-shot">
-                            <img src="img/scr-img/app-2.jpg" alt="">
+                            <img src="img/scr-img/xpert2.png" alt="">
                         </div>
                         <div class="single-shot">
-                            <img src="img/scr-img/app-3.jpg" alt="">
+                            <img src="img/scr-img/xpert3.png" alt="">
                         </div>
                         <div class="single-shot">
-                            <img src="img/scr-img/app-4.jpg" alt="">
+                            <img src="img/scr-img/xpert4.png" alt="">
                         </div>
                         <div class="single-shot">
-                            <img src="img/scr-img/app-5.jpg" alt="">
+                            <img src="img/scr-img/xpert5.png" alt="">
                         </div>
                         <div class="single-shot">
-                            <img src="img/scr-img/app-3.jpg" alt="">
+                            <img src="img/scr-img/xpert6.png" alt="">
                         </div>
                     </div>
                 </div>
@@ -467,7 +468,8 @@
                                 <i class="fa fa-quote-left" aria-hidden="true"></i>
                             </div>
                             <div class="client-description text-center">
-                                <p>“ I have been using it for a number of years. I use Colorlib for usability testing. It's great for taking images and making clickable image prototypes that do the job and save me the coding time and just the general hassle of hosting. ”</p>
+                                <p>“ Pour moi c’est le meilleur logiciel sur le marché, j’attends les nouvelles options que j’ai demandé à XpertSoft ,
+                                    concernant, notamment, l’évaluation du personnel en matière de vente.”</p>
                             </div>
                             <div class="star-icon text-center">
                                 <i class="ion-ios-star"></i>
@@ -477,8 +479,8 @@
                                 <i class="ion-ios-star"></i>
                             </div>
                             <div class="client-name text-center">
-                                <h5>Aigars Silkalns</h5>
-                                <p>Ceo Colorlib</p>
+                                <h5>Mr.Riache Mohamed</h5>
+                                <p>Pharmacie Riache.Sétif</p>
                             </div>
                         </div>
                         <!-- Client Feedback Text  -->
@@ -487,7 +489,8 @@
                                 <i class="fa fa-quote-left" aria-hidden="true"></i>
                             </div>
                             <div class="client-description text-center">
-                                <p>“ I use Colorlib for usability testing. It's great for taking images and making clickable image prototypes that do the job and save me the coding time and just the general hassle of hosting. ”</p>
+                                <p>“ Pour moi c’est le meilleur logiciel sur le marché, j’attends les nouvelles options que j’ai demandé à XpertSoft ,
+                                    concernant, notamment, l’évaluation du personnel en matière de vente.”</p>
                             </div>
                             <div class="star-icon text-center">
                                 <i class="ion-ios-star"></i>
@@ -497,8 +500,8 @@
                                 <i class="ion-ios-star"></i>
                             </div>
                             <div class="client-name text-center">
-                                <h5>Jennifer</h5>
-                                <p>Developer</p>
+                                <h5>Mr.Riache Mohamed</h5>
+                                <p>Pharmacie Riache.Sétif</p>
                             </div>
                         </div>
                         <!-- Client Feedback Text  -->
@@ -571,113 +574,19 @@
             <div class="row align-items-center">
                 <div class="col-md-8">
                     <div class="membership-description">
-                        <h2>Join our Monthly Membership</h2>
-                        <p>Find the perfect plan for you — 100% satisfaction guaranteed.</p>
+                        <h2>Nous avons conçu </h2>
+                        <p>les différents packs XpertPharm de façon personnalisée et adaptée à vos besoins, à des tarifs inégalables.</p>
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="get-started-button wow bounceInDown" data-wow-delay="0.5s">
-                        <a href="#">Get Started</a>
+                        <a href="#"> En savoir plus</a>
                     </div>
                 </div>
             </div>
         </div>
     </section>
     <!-- ***** CTA Area End ***** -->
-
-    <!-- ***** Our Team Area Start ***** -->
-    <section class="our-Team-area bg-white section_padding_100_50 clearfix" id="team">
-        <div class="container">
-            <div class="row">
-                <div class="col-12 text-center">
-                    <!-- Heading Text  -->
-                    <div class="section-heading">
-                        <h2>Our Team</h2>
-                        <div class="line-shape"></div>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-12 col-md-6 col-lg-3">
-                    <div class="single-team-member">
-                        <div class="member-image">
-                            <img src="img/team-img/team-1.jpg" alt="">
-                            <div class="team-hover-effects">
-                                <div class="team-social-icon">
-                                    <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
-                                    <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-                                    <a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
-                                    <a href="#"> <i class="fa fa-instagram" aria-hidden="true"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="member-text">
-                            <h4>Jackson Nash</h4>
-                            <p>Tax Advice</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-12 col-md-6 col-lg-3">
-                    <div class="single-team-member">
-                        <div class="member-image">
-                            <img src="img/team-img/team-2.jpg" alt="">
-                            <div class="team-hover-effects">
-                                <div class="team-social-icon">
-                                    <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
-                                    <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-                                    <a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
-                                    <a href="#"> <i class="fa fa-instagram" aria-hidden="true"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="member-text">
-                            <h4>Alex Manning</h4>
-                            <p>CEO-Founder</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-12 col-md-6 col-lg-3">
-                    <div class="single-team-member">
-                        <div class="member-image">
-                            <img src="img/team-img/team-3.jpg" alt="">
-                            <div class="team-hover-effects">
-                                <div class="team-social-icon">
-                                    <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
-                                    <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-                                    <a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
-                                    <a href="#"> <i class="fa fa-instagram" aria-hidden="true"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="member-text">
-                            <h4>Ollie Schneider</h4>
-                            <p>Business Planner</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-12 col-md-6 col-lg-3">
-                    <div class="single-team-member">
-                        <div class="member-image">
-                            <img src="img/team-img/team-4.jpg" alt="">
-                            <div class="team-hover-effects">
-                                <div class="team-social-icon">
-                                    <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
-                                    <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-                                    <a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
-                                    <a href="#"> <i class="fa fa-instagram" aria-hidden="true"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="member-text">
-                            <h4>Roger West</h4>
-                            <p>Financer</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- ***** Our Team Area End ***** -->
 
     <!-- ***** Contact Us Area Start ***** -->
     <section class="footer-contact-area section_padding_100 clearfix" id="contact">
@@ -751,7 +660,7 @@
                                             <input type="text" class="form-control" name="name" id="name" placeholder="Code Postal" required>
                                         </div>
                                     </div>
-                                    
+
                                     <!-- Single Input Area Start -->
                                     <div class="col-md-12">
                                         <div class="form-group">
