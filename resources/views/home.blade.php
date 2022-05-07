@@ -278,16 +278,16 @@
     <!-- ***** Cool Facts Area Start ***** -->
     <section class="cool_facts_area clearfix">
         <div class="container">
-            <div class="row">
+            <div class="row d-flex justify-content-center">
                 <!-- Single Cool Fact-->
                 <div class="col-12 col-md-3 col-lg-3">
                     <div class="single-cool-fact d-flex justify-content-center wow fadeInUp" data-wow-delay="0.2s">
                         <div class="counter-area">
-                            <h3><span class="counter">90</span></h3>
+                            <h3><span class="counter">1500</span></h3>
                         </div>
                         <div class="cool-facts-content">
                             <i class="ion-arrow-down-a"></i>
-                            <p>APP <br> DOWNLOADS</p>
+                            <p>Licences <br> Déployées</p>
                         </div>
                     </div>
                 </div>
@@ -295,11 +295,11 @@
                 <div class="col-12 col-md-3 col-lg-3">
                     <div class="single-cool-fact d-flex justify-content-center wow fadeInUp" data-wow-delay="0.4s">
                         <div class="counter-area">
-                            <h3><span class="counter">120</span></h3>
+                            <h3><span class="counter">12</span></h3>
                         </div>
                         <div class="cool-facts-content">
                             <i class="ion-happy-outline"></i>
-                            <p>Happy <br> Clients</p>
+                            <p> heures<br> Support Technique</p>
                         </div>
                     </div>
                 </div>
@@ -307,26 +307,15 @@
                 <div class="col-12 col-md-3 col-lg-3">
                     <div class="single-cool-fact d-flex justify-content-center wow fadeInUp" data-wow-delay="0.6s">
                         <div class="counter-area">
-                            <h3><span class="counter">40</span></h3>
+                            <h3><span class="counter">33</span></h3>
                         </div>
                         <div class="cool-facts-content">
                             <i class="ion-person"></i>
-                            <p>ACTIVE <br>ACCOUNTS</p>
+                            <p>Effectif <br> Operationnel</p>
                         </div>
                     </div>
                 </div>
                 <!-- Single Cool Fact-->
-                <div class="col-12 col-md-3 col-lg-3">
-                    <div class="single-cool-fact d-flex justify-content-center wow fadeInUp" data-wow-delay="0.8s">
-                        <div class="counter-area">
-                            <h3><span class="counter">10</span></h3>
-                        </div>
-                        <div class="cool-facts-content">
-                            <i class="ion-ios-star-outline"></i>
-                            <p>TOTAL <br>APP RATES</p>
-                        </div>
-                    </div>
-                </div>
             </div>
         </div>
     </section>
@@ -388,7 +377,7 @@
                 </div>
             </div>
 
-            <div class="row no-gutters">
+            <div class="row no-gutters d-flex justify-content-center">
                 <div class="col-12 col-md-6 col-lg-3">
                     <!-- Package Price  -->
                     <div class="single-price-plan text-center">
